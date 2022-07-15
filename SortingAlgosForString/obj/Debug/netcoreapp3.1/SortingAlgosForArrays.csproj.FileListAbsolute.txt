@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\bin\Debug\netcoreapp3.1\SortingAlgosForArrays.deps.json
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\bin\Debug\netcoreapp3.1\SortingAlgosForArrays.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\bin\Debug\netcoreapp3.1\SortingAlgosForArrays.pdb
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\SortingAlgosForString\obj\Debug\netcoreapp3.1\SortingAlgosForArrays.pdb

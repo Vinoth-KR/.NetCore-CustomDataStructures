@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.deps.json
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.pdb

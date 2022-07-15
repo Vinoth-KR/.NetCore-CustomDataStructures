@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CustomBinaryTree/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CustomBinaryTree.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomBinaryTree.dll": {}
+        }
+      },
+      "CustomLinkedList/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/CustomLinkedList.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CustomLinkedList.dll": {}
+        }
+      },
+      "SortingAlgosForArrays/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SortingAlgosForArrays.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SortingAlgosForArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomBinaryTree/1.0.0": {
+      "type": "project",
+      "path": "../CustomTree/CustomBinaryTree.csproj",
+      "msbuildProject": "../CustomTree/CustomBinaryTree.csproj"
+    },
+    "CustomLinkedList/1.0.0": {
+      "type": "project",
+      "path": "../CustomLinkedList/CustomLinkedList.csproj",
+      "msbuildProject": "../CustomLinkedList/CustomLinkedList.csproj"
+    },
+    "SortingAlgosForArrays/1.0.0": {
+      "type": "project",
+      "path": "../SortingAlgosForString/SortingAlgosForArrays.csproj",
+      "msbuildProject": "../SortingAlgosForString/SortingAlgosForArrays.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CustomBinaryTree >= 1.0.0",
+      "CustomLinkedList >= 1.0.0",
+      "SortingAlgosForArrays >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomDataStructures\\CustomDataStructures.csproj",
+      "projectName": "CustomDataStructures",
+      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomDataStructures\\CustomDataStructures.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomDataStructures\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomLinkedList\\CustomLinkedList.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomLinkedList\\CustomLinkedList.csproj"
+            },
+            "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomTree\\CustomBinaryTree.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\CustomTree\\CustomBinaryTree.csproj"
+            },
+            "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\SortingAlgosForString\\SortingAlgosForArrays.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CustomDataStructures\\SortingAlgosForString\\SortingAlgosForArrays.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

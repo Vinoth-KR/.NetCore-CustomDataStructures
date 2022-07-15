@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.deps.json
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\bin\Debug\netcoreapp3.1\CustomBinaryTree.pdb
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomBinaryTree.pdb

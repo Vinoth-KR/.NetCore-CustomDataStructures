@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\bin\Debug\netcoreapp3.1\CustomTree.deps.json
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\bin\Debug\netcoreapp3.1\CustomTree.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\bin\Debug\netcoreapp3.1\CustomTree.pdb
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.dll
+C:\Users\Lenovo\source\repos\CustomDataStructures\CustomTree\obj\Debug\netcoreapp3.1\CustomTree.pdb
